@@ -7,7 +7,7 @@ export default function Contact() {
     <section id="contact" className="py-20 px-6 bg-slate-100 text-center">
       <h2 className="text-4xl font-semibold text-indigo-700 mb-6">Contact Us</h2>
       <p className="text-slate-600 mb-8">
-        We'd love to hear from you. Email us at <strong>hello@novabiotech.com</strong> or fill out the form below.
+        We would d love to hear from you. Email us at <strong>hello@novabiotech.com</strong> or fill out the form below.
       </p>
 
       <form className="max-w-xl mx-auto grid gap-4">
